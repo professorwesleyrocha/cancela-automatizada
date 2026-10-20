@@ -66,3 +66,7 @@ Este projeto demonstra a integração entre eletrônica, programação, banco de
 Wesley Rocha da Silva
 
 Projeto desenvolvido para fins educacionais e de portfólio.
+
+## 📸 Foto do projeto
+
+![Cancela Automatizada](imagens/cancela.png)
